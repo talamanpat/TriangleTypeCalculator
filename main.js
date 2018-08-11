@@ -12,8 +12,8 @@ $(document).ready(function() {
             r="Scalene";
         return r;
     }
-    
-    $( "input" ).keyup(function() {
+    $(":input").bind("keyup change", function(e) {
+//    $( "input" ).keyup(function() {
         $("#result").html(getTriangleType($("#A").val(),$("#B").val(),$("#C").val()));        
     });
 
