@@ -1,6 +1,6 @@
-# Project Title
+# Triangle Type Calculator
 
-Triangle Type Calculator
+Simple webapp that calculate the type of a triangle.
 
 ### Prerequisites
 
