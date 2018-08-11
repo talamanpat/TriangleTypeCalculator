@@ -11,9 +11,24 @@ An HTML5 web browser.
 Extract the folder, and open the file index.html.
 
 ```
-/Triangle/index.html
+/foo/index.html
 ```
 Enjoy the app.
+
+
+## Files
+
+```
+#HTML5 file
+/foo/index.html
+
+#Javascript logic
+/foo/main.js
+
+#custom simple unitary test module
+/foo/test.js
+```
+
 
 ## Running the tests
 
