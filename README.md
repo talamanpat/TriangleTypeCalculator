@@ -1,6 +1,6 @@
 # Triangle Type Calculator
 
-Simple webapp that calculate the type of a triangle.
+Simple web-app that calculates the type of a triangle.
 
 ### Prerequisites
 
