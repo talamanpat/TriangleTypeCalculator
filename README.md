@@ -8,7 +8,7 @@ An HTML5 web browser.
 
 ### Installing
 
-Extract the folder, and open the file index.html.
+Download, extract the folder, and open the file index.html.
 
 ```
 /foo/index.html
