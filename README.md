@@ -4,7 +4,7 @@ Simple webapp that calculate the type of a triangle.
 
 ### Prerequisites
 
-A web browser.
+An HTML5 web browser.
 
 ### Installing
 
